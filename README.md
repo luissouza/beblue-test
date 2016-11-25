@@ -7,44 +7,42 @@
 
 [
   {
-    "id": 56,
+    "id": 2,
     "userCpf": "44444444444",
     "merchantId": 1,
     "transactionValue": 264.65,
     "transactionType": "TP_1",
-    "transactionDate": 1480012236000,
+    "transactionDate": "24/11/2016",
     "transactionCode": "ky543Hm833s3fs"
   },
   {
-    "id": 57,
+    "id": 3,
     "userCpf": "11111111111",
     "merchantId": 1,
     "transactionValue": 649.89,
     "transactionType": "TP_2",
-    "transactionDate": 1480012300000,
+    "transactionDate": "24/11/2016",
     "transactionCode": "jy556Hm833s3fs"
   },
   {
-    "id": 58,
+    "id": 4,
     "userCpf": "22222222222",
     "merchantId": 1,
     "transactionValue": 476.55,
     "transactionType": "TP_1",
-    "transactionDate": 1480012315000,
+    "transactionDate": "24/11/2016",
     "transactionCode": "hy9443m833s3fs"
   },
   {
-    "id": 59,
+    "id": 5,
     "userCpf": "33333333333",
     "merchantId": 1,
     "transactionValue": 188.2,
     "transactionType": "TP_2",
-    "transactionDate": 1480012334000,
+    "transactionDate": "24/11/2016",
     "transactionCode": "jy98hHmfs5s3fs"
   }
 ]
-
-
 ```
 
 * *Output do Java ao gerar transação e calcular CashBack do webservice http://localhost:8087/SpringRestCrud/beblue/register-transaction* 
